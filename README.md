@@ -37,16 +37,37 @@ PROCEDURE:
 CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
+![half circuit with filter](https://github.com/user-attachments/assets/02d1de63-a672-4cc0-bf42-4d44602901ad)
 
-Bridge rectifier with filter:
+Half wave rectifier without filter:
+![half circuit without filter](https://github.com/user-attachments/assets/688b8123-2ecd-4457-bdd0-d758515b193b)
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+full wave rectifier with filter:
+![full circuit with fliter](https://github.com/user-attachments/assets/0ef95d70-636c-4c02-9bbb-039d02571f63)
 
-WAVEFORM:
+full wave rectifier without filter:
+![full circuit without filter](https://github.com/user-attachments/assets/db075565-4d7a-4a40-a996-77e0ccbbcfb7)
 
+TABULAR COLUMN:
+Half wave rectifier:
+![half tabulation](https://github.com/user-attachments/assets/386600e9-ac3f-42e4-afd6-11167fdf2127)
+
+Full wave rectifier:
+![full tabulation](https://github.com/user-attachments/assets/1748d7bf-cd28-4332-a7cc-cc33c2e163d6)
+
+Model Graph:
+Half wave rectifier:
+![half model graph](https://github.com/user-attachments/assets/69fcc5c5-7075-4ea9-ba81-fa6663f0ebdc)
+
+Full wave rectifier:
+![full model graph](https://github.com/user-attachments/assets/4c2aa642-b4f5-4097-86d2-dd43e9a80599)
+
+Graph:
+Half wave rectifier:
+![half graph](https://github.com/user-attachments/assets/a9003caa-26f6-4663-a6e3-1ed76f51b7e8)
+
+Full wave rectifier:
+![full graph](https://github.com/user-attachments/assets/c254a066-f401-4028-b341-ca9fc6908821)
 
 RESULT:
 
